@@ -1,1 +1,1 @@
-# Cornell-PhD-Visit-App
+Originally the final project for INFO 4340, App Prototyping. We created an app to provide information to prospective PhD students for the Cornell CIS department.
