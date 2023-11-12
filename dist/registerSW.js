@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/info4340-2023sp/app-ocalypse-survivors-project/sw.js', { scope: '/info4340-2023sp/app-ocalypse-survivors-project/' })})}

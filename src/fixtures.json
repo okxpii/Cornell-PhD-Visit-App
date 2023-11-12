@@ -1,0 +1,279 @@
+{
+  "schedule": {
+    "Fri March 30th": [
+      {
+        "startTime": 9,
+        "endTime": 11.5,
+        "name": "Info Session",
+        "location": "201 Baker",
+        "googleMaps": "https://goo.gl/maps/6TjVCWtqPYxwXMfh6"
+      },
+      {
+        "startTime": 11.5,
+        "endTime": 14.5,
+        "name": "Free Time",
+        "location": "Explore Campus",
+        "googleMaps": ""
+      },
+      {
+        "startTime": 14.5,
+        "endTime": 17.5,
+        "name": "Networking",
+        "location": "Gates Hall",
+        "googleMaps": "https://goo.gl/maps/RRjESFWjgqhEFCA76"
+      },
+      {
+        "startTime": 17.5,
+        "endTime": 19.5,
+        "name": "Dessert w/ Professors",
+        "location": "Mango Mango",
+        "googleMaps": "https://goo.gl/maps/6rjesBr217Q7ZJ9M8"
+      },
+      {
+        "startTime": 19.5,
+        "endTime": 21,
+        "name": "Drinks w/ Candidates",
+        "location": "Argos Warehouse",
+        "googleMaps": "https://goo.gl/maps/otPaHzr2F7F7NCqF8"
+      },
+      {
+        "startTime": 21,
+        "endTime": 22.5,
+        "name": "Night Tour",
+        "location": "Collegetown",
+        "googleMaps": "https://goo.gl/maps/jLdMi5CmnCC353N78"
+      }
+    ],
+    "Sat March 31st": [
+      {
+        "startTime": 14.5,
+        "endTime": 17.5,
+        "name": "Networking",
+        "location": "Gates Hall",
+        "googleMaps": "https://goo.gl/maps/RRjESFWjgqhEFCA76"
+      }
+    ]
+  },
+  "networking" : {
+    "Show All":[
+      {
+        "name": "Natalie Bazarova",
+        "dept": "Communication",
+        "research": "Bystander intervention & cyberbullying",
+        "lab": "Social Media Lab",
+        "email": "nnb8@cornell.edu",
+        "image": "natalie-bazarova.jpeg"
+    },
+    {
+      "name": "Tanzeem Choudhury",
+      "dept": "Information Science",
+      "research": "Ubiquitous computing",
+      "lab": "People-Aware Computing Lab",
+      "email": "tanzeem.choudhury@cornell.edu",
+      "image": "tanzeem-choudhury.jpeg"
+    },
+    {
+      "name": "Chris Csíkszentmihályi",
+      "dept": "Information Science",
+      "research": "Sociotechnical systems",
+      "lab": "Redistributive Computing Systems Group",
+      "email": "robotic@gmail.com",
+      "image": "chris-czik.jpeg"
+    },
+    {
+      "name": "Guy Hoffman",
+      "dept": "Mechanical and Aerospace Engineering",
+      "research": "Human-Computer Interaction",
+      "lab": "Human-Robot Collaboration and Companionship",
+      "email": "hoffman@cornell.edu",
+      "image": "guy-hoffman.jpeg"
+    },
+    {
+      "name": "Phoebe Sengers",
+      "dept": "Science & Technology Sttudies",
+      "research": "Digital technology in education",
+      "lab": "Culturally Embedded Computing Group",
+      "email": "sengers@cs.cornell.edu",
+      "image": "phoebe-sengers.jpeg"
+    },
+     {
+      "name": "Rene Kizilcec",
+      "dept": "Information Science",
+      "research": "Digital technology in education",
+      "lab": "Cornell Future of Learning Lab",
+      "email": "kizilcec@cornell.edu",
+      "image": "rene-kizilcec.jpeg"
+    }
+    ],
+    "Human-Computer Interaction": [
+      {
+        "name": "Chris Csíkszentmihályi",
+        "dept": "Information Science",
+        "research": "Sociotechnical systems",
+        "lab": "Redistributive Computing Systems Group",
+        "email": "robotic@gmail.com",
+        "image": "chris-czik.jpeg"
+      },
+      {
+        "name": "Guy Hoffman",
+        "dept": "Mechanical and Aerospace Engineering",
+        "research": "Human-Computer Interaction",
+        "lab": "Human-Robot Collaboration and Companionship",
+        "email": "hoffman@cornell.edu",
+        "image": "guy-hoffman.jpeg"
+      },
+      {
+        "name": "Phoebe Sengers",
+        "dept": "Science & Technology Sttudies",
+        "research": "Digital technology in education",
+        "lab": "Culturally Embedded Computing Group",
+        "email": "sengers@cs.cornell.edu",
+        "image": "phoebe-sengers.jpeg"
+      },
+       {
+        "name": "Rene Kizilcec",
+        "dept": "Information Science",
+        "research": "Digital technology in education",
+        "lab": "Cornell Future of Learning Lab",
+        "email": "kizilcec@cornell.edu",
+        "image": "rene-kizilcec.jpeg"
+      }
+  ],
+    "Ubiquitous Computing":[
+    {
+      "name": "Tanzeem Choudhury",
+      "dept": "Information Science",
+      "research": "Ubiquitous computing",
+      "lab": "People-Aware Computing Lab",
+      "email": "tanzeem.choudhury@cornell.edu",
+      "image": "tanzeem-choudhury.jpeg"
+    }
+  ],
+  "Social Computing & Cooperative Work":[
+    {
+      "name": "Natalie Bazarova",
+      "dept": "Communication",
+      "research": "Bystander intervention & cyberbullying",
+      "lab": "Social Media Lab",
+      "email": "nnb8@cornell.edu",
+      "image": "natalie-bazarova.jpeg"
+  },
+  {
+    "name": "Guy Hoffman",
+    "dept": "Mechanical and Aerospace Engineering",
+    "research": "Human-Computer Interaction",
+    "lab": "Human-Robot Collaboration and Companionship",
+    "email": "hoffman@cornell.edu",
+    "image": "guy-hoffman.jpeg"
+  },
+  {
+    "name": "Phoebe Sengers",
+    "dept": "Science & Technology Sttudies",
+    "research": "Digital technology in education",
+    "lab": "Culturally Embedded Computing Group",
+    "email": "sengers@cs.cornell.edu",
+    "image": "phoebe-sengers.jpeg"
+  }
+  ]
+  },
+
+  "announcements": {
+    "a-1": {
+      "num": "a-1",
+      "header": "Sat. Mar 31 2:25pm: New Location for Dinner",
+      "info": "The location for the community dinner for prospective students has changed for tonight. Instead of Souvlaki House it will now be held at Ithaca Beer Co. in college town. Enjoy!"
+    },
+    "a-2": {
+      "num": "a-2",
+      "header": "Sat. Mar 31 12:00am: Optional Luncheon with Dean",
+      "info": "We are hosting an optional lunch with Dean of Cornell CIS at 1:30pm today. Meet us at Upson for sandwhiches, soups, and networking! Upson is located at 124 Hoy Road. Please walk through the front or back doors and walk straigt down to see the open concept dining area. We will be with the tables covered in red tablecloth."
+    },
+    "a-3": {
+      "num": "a-3",
+      "header": "Sat. Mar 31 8:35am: Weather update",
+      "info": "Hello visiting students :) As per yesterdays announcement we will continue as planned regardless of snow weather. The weather should begin to clear around mid-day. If you are having any trouble getting around in the snow feel free to look at different transportation options in the transport page under resources."
+    },
+    "a-4": {
+      "num": "a-4",
+      "header": "Fri. Mar 30 9:00pm: Weather Alert tomorrow",
+      "info": "Unfortunately, we have some real Ithaca weather heading towards us tomorrow morning and afternoon. At the moment, the snow does not appear to be too heavy and therefore we will continue plans as usual. Please make sure to plan ahead and take a look at the transportation options page under resources."
+    },
+    "a-5": {
+      "num": "a-5",
+      "header": "Fri. Mar 30 7:55pm: What a great first day!",
+      "info": "Thank you to everyone for a successful first day! We were so pleased to meet everyone and hope you are all out and enjoying dinners and meeting new people. Something to note for tomorrow, if your having a lot of trouble finding a room and the maps aren't helping feel free to ask anyone. Our studnts here are more than happy to show you around the buildings they love. "
+    },
+    "a-6": {
+      "num": "a-6",
+      "header": "Fri. Mar 30 11:00am: Optional Lunch at Trillium",
+      "info": "Feel free to join our free lunch at Trillium today from 1:00-2:00pm to continue talking to peers and professors. Trillium is located at 215 Garden Ave. We have plenty of options lik mexican, vietnamese, salad bar, soups, and hot lunches."
+    },
+    "a-7": {
+      "num": "a-7",
+      "header": "Fri. Mar 30 7:30am: Welcome!",
+      "info": "Welcome to your visiting weekend, we are so excited to have you! Please feel free to walk around campus and take in beautiful Ithaca. If you have any questions visit FAQ or ask any Cornell staff to assist you. Enjoy!"
+    },
+    "a-8": {
+      "num": "a-8",
+      "header": "Thurs. Mar 29 6:20pm: Information for Travels",
+      "info": "By now eveyone is hopefully trickling in and we are so excited to see you. Remember that if you traveled by purchasing a ticket or spending money, you can submit a request for reimbursement under the resources page. If you are having trouble traveling or arriving in Ithaca, please contact us and we will be happy to help"
+    },
+    "a-9": {
+      "num": "a-9",
+      "header": "Wed. Mar 28 6:00am: Upcoming Weekend Weather",
+      "info": "I hope you are all getting ready for your vising weekend. We are expecting some snow, but we are hopeful it will not impact your travels and is later in the weekend. Please plan ahead and pack warmly."
+    }
+  },
+  "faq": {
+    "f-1": {
+      "num": "f-1",
+      "header": "Where can I get reimbursed?",
+      "info": "You can visit the Resources tab or contact the office of Bursar at Cornell."
+    },
+    "f-2": {
+      "num": "f-2",
+      "header": "Who can come to PhD visit day?",
+      "info": "Students who were accepted to a PhD program and who are considering enrollment are invited to PhD visit day at Cornell."
+    },
+    "f-3": {
+      "num": "f-3",
+      "header": "What should I bring to PhD visit day?",
+      "info": "You should come prepared wih something to take notes with and a copy of your resume."
+    },
+    "f-4": {
+      "num": "f-4",
+      "header": "Will I be able to talk with professors in my research program?",
+      "info": "Yes! You can tap the Networking page below and find information on how to contact professors in your program."
+    },
+    "f-5": {
+      "num": "f-5",
+      "header": "Is attendance to every event on my schedule for PhD visit day required?",
+      "info": "Although attendance is not required, we highly reccomend attending your scheduled events to make the most out of your visit."
+    },
+    "f-6": {
+      "num": "f-6",
+      "header": "What should I wear to PhD visit day?",
+      "info": "You should wear an outfit you feel comfortable in and that is appropriate for the events you will be attending."
+    },
+    "f-7": {
+      "num": "f-7",
+      "header": "Will I be able to explore Ithaca during my visit day?",
+      "info": "Yes! You can view your schedule below and view when you have free time to visit areas surrounding campus. You can also visit the resources tab to view your options for getting around."
+    },
+    "f-8": {
+      "num": "f-8",
+      "header": "Can I bring a guest with me to events?",
+      "info": "You should check with your program to see guidelines for brining additional guests to visit day or events"
+    },
+    "f-9": {
+      "num": "f-9",
+      "header": "How can I make the most of my visit?",
+      "info": "You should come prepared with questions you have about your program or interests and be open to conversations and opportunities presented by the program and faculty! Enjoy your visit!"
+    },
+    "f-10": {
+      "num": "f-10",
+      "header": "What are some fun things to do around Cornell?",
+      "info": "Some of out personal favorites are: visit the Ithaca Farmers Market, explore the Cornell Botanic Gardens, visit the Johnson Museum of Art, go kayaking or paddleboarding on Cayuga Lake, explore the Ithaca Commons."
+    }
+  }
+}
