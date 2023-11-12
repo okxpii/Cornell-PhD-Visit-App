@@ -1,1 +1,1 @@
-Originally the final project for INFO 4340, App Prototyping. We created an app to provide information to prospective PhD students for the Cornell CIS department.
+Originally the final project for INFO 4340, App Prototyping. We created an app to provide information to prospective PhD students for the Cornell CIS department. I created the scheduling page, contributed multiple user interviews, helped teammates debug their code, compiled the 40 page report, and set up the website for the final presentation.
